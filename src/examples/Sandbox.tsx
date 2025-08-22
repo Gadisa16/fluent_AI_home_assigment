@@ -118,7 +118,7 @@ export const Sandbox = () => {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
             </div>
-            <div style={{ margin:"5px auto"}}>
+            <div className="mx-auto my-1">
               <h3 className="text-lg font-semibold text-blue-900 dark:text-blue-100 mb-3">
                 How to Use
               </h3>
