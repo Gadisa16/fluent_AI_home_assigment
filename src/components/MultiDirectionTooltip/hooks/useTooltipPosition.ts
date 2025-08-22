@@ -8,8 +8,8 @@ interface Position {
 }
 
 interface UseTooltipPositionProps {
-  triggerRef: React.RefObject<HTMLDivElement>;
-  tooltipRef: React.RefObject<HTMLDivElement>;
+  triggerRef: React.RefObject<HTMLDivElement | null>;
+  tooltipRef: React.RefObject<HTMLDivElement | null>;
   placement: PopupPlacement;
   offset?: number;
   disableFlip?: boolean;

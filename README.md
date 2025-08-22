@@ -171,7 +171,3 @@ const allPlacementsConfig = {
 - Strict TypeScript and Biome linting for code quality.
 
 ---
-
-## License
-
-MIT
