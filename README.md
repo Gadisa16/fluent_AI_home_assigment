@@ -388,11 +388,6 @@ bun test --watch
 - Update documentation as needed
 - Ensure accessibility compliance
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -405,16 +400,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **shadcn/ui** for beautiful UI components
 - **Bun** for the fast JavaScript runtime and package manager
 
----
-
-## 📞 Support
-
-If you have any questions or need help:
-
-- **Issues**: Create an issue on GitHub
-- **Discussions**: Use GitHub Discussions
-- **Documentation**: Check this README and inline code comments
-
----
-
-**Made with ❤️ using modern web technologies**
